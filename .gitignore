@@ -1,0 +1,17 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated artifacts (rebuilt by the notebook on first run)
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
